@@ -1,0 +1,5 @@
+notifications:
+  email: false
+before_script:
+  - "env"
+script: 'test_env.sh'

@@ -1,0 +1,6 @@
+before_script:
+- env
+script: test_env.sh
+env:
+  global:
+    secure: ideDsaibYCLlI/+cjLFwhFdF/qe1j8nw4ExsbQ90Cl/kd+qQhfMpypypku99+gxAkFv1kE0TCHAg7gjSp2D/+2ynN2ohF11PFRu8smtxdq/wqpwbAQJ65lHtpVhPkG9ibuwbf660uOMofxZAGL/i8+q4T5Kzv/3TrKNbYOgLC5M=
